@@ -1,2 +1,2 @@
 # ft_nmap
-Implementation of NMAP tool for network scanning
+Implementation of nmap tool for network scanning
